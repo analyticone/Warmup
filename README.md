@@ -2,8 +2,8 @@
 Edit the Warmup class.  Implement all of the methods below.  Please make sure that the signatures of all of the methods exactly match the specifications of the assignment.  The signature includes the method name, the return type, and the number of parameters and their types.
 
 ### The assignment
-Method Signature	   | Description
-|---------------------|---|
+Method Signature 	  | Description
+|----------------------------------------------------------|---|
 int [] createRandomIntArray(int N, int low, int high) |	This method will create and return the address of an array of N random integers between low and high (inclusive).
 int smallest(int [] array) |	This method will return the smallest value in an integer array.
 int indexOfSmallest(int [] array) |	This method will return the index of the smallest value in an integer array.
@@ -30,3 +30,5 @@ N/A
 
 ### Notes
 - The JDK is installed on GitHub Actions machines, so you're also able to directly invoke `javac`, `java`, or any other CLI command included in the JDK. 
+
+
