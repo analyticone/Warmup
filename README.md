@@ -1,5 +1,5 @@
-# Autograding Example: Java
-This example project is written in Java, and tested with Gradle/JUnit.
+# Warmup
+Edit the Warmup class.  Implement all of the methods below.  Please make sure that the signatures of all of the methods exactly match the specifications of the assignment.  The signature includes the method name, the return type, and the number of parameters and their types.
 
 ### The assignment
 Do the BAG
