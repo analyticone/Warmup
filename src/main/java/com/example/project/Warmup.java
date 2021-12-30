@@ -13,4 +13,10 @@ public class Warmup
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	public static Integer indexOfSmallest(int[] is)
+	{
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
