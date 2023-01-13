@@ -11,7 +11,7 @@ boolean equalIntArrays(int [] a, int[] b) |	This method will return true if two 
 boolean equalStringArrays(String [] a, String[] b) |	This method will return true if two arrays of strings are equal.
 int linearSearch(int [] array, int target) |	This method searches the array starting at index 0 and return the index of the first occurrence of target or -1 if target is not found in the array
 int count(int [] array, int target) |	This method returns a count of the number of times target appears in the array. For example, 8 ears twice in [2, 3, 3, 3, 4, 6, 7, 8, 8, 9].   
-int duplicates(int [] array) |	This method returns a count of the number of duplicate values in an array of integers.  For example, if your array is [3, 2, 3, 8, 3, 4, 6, 7, 8, 9], there are three duplicates (two duplicate 3’s and one duplicate 8).
+int duplicates(int [] array) |	This method returns a count of the number of duplicate values in an array of integers.  For example, if your array is [3, 2, **3**, 8, **3**, 4, 6, 7, **8**, 9], there are three duplicates (two duplicate 3’s and one duplicate 8).
 int uniques(int [] array) |	This method returns a count of the number of unique values in an array.  For example, there are seven unique values in [3, 2, 3, 8, 3, 4, 6, 7, 8, 9]
 int [] returnSet(int [] array) |	This method returns a new array containing the unique values from an array of integers.  For example, if you pass the array is [3, 2, 3, 8, 3, 4, 6, 7, 8, 9], your method will return a new array containing the values (2, 3, 4, 6, 7, 8, 9) | but the order does not matter.
 int mode(int [] array) |	This method returns the value that appears most frequently in an array.
